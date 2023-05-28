@@ -1,5 +1,4 @@
 # PANS_Java_Game_Project_The_Second
-Idk, I was bored and wanted to make another project if my Teacher didn't like first one xD
 
 Visual Preview 
 ![Zrzut ekranu 2023-05-28 184700](https://github.com/Guarczewski/PANS_Java_Game_Project_The_Second/assets/31183760/f58f2dad-3fde-463a-9a61-56d9e7383cf6)
